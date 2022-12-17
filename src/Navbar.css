@@ -1,0 +1,37 @@
+.nav {
+    margin-top: auto;
+    padding: 30px;
+    margin-bottom: 0;
+    list-style: none;
+    line-height: 1.6;
+    width: 100%;
+    outline-style: dotted;
+    list-style: inside;
+}
+
+.nav>li>a {
+    display: contents;
+    font-style: italic;
+    text-decoration-style: wavy;
+}
+
+.navbar-nav {
+    float: right !important;
+    margin: 0;
+}
+
+.navbar-nav>li {
+    float: right;
+    width: 150px;
+}
+
+.navbar-inverse {
+    background-color: black;
+    border-color: #080808;
+    outline-style: dotted;
+    margin-top: 3px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: bisque;
+}
