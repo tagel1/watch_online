@@ -1,0 +1,15 @@
+.commentsTable{
+    direction: rtl;
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 28%;
+}
+.titelOfRecomments{
+    display:block;
+    font-weight: bold;
+    border: 1px solid;
+}
+.allComments{
+    border: 1px solid;
+}

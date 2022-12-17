@@ -1,0 +1,11 @@
+.tableForDetails{
+    direction: rtl;
+    margin-left: 20%;
+}
+.titel{
+    display:block;
+    font-weight: bold;
+}
+.infoOfWatch{
+    margin-left: 60%; 
+}

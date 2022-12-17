@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.pic {
+  object-fit: contain;
+  display:block;
+  height: 82vh;
+  width: 37vw;
+  float: right;
+  margin:0;
+  padding:0;
+  margin-right: 10%;
+  margin-top: -13%;
+}
